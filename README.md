@@ -12,7 +12,7 @@
 - Работа с гипотезами
 
  ## Программа обучения:
- ![Image alt](https://github.com/BiryukovDmitry/Data_analyst/blob/main/Diplom.pdf)
+ ![-](https://github.com/BiryukovDmitry/Data_analyst/blob/main/Diplom.pdf)
 
 
 
